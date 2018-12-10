@@ -1,0 +1,5 @@
+service
+  name=Autentia Client
+service
+  log
+    level=INFO
